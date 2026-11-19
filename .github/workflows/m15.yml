@@ -1,0 +1,3 @@
+name: M15
+on:/n  workflow_dispatch:/njobs:/n  m:/n    runs-on: macos-15
+    steps:/n      - run: sw_vers
